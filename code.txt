@@ -1,0 +1,17 @@
+*git init      %empezar a usar git
+*git add <file>%para pasar archivos del working directoy al staging area
+*git status    %para ver en que estado estan mis archivos, si en working directory o en staging area
+git commit     %para pasar archivos del staging area al repository, primer snapshot
+git push       %para subirlo a un repositorio remoto, donde desarrolladores tienen permiso para modificar el codigo
+git pull       %te traes los cambios de otros desarrolladores
+git clone      %hace una copia a tu computador
+
+---working directory
+-
+-git add
+-
+---staging area  --
+                 --
+        -git commit
+		 --
+---repository------
