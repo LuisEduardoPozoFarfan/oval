@@ -22,7 +22,7 @@ git config --global user.name "oval"
 
 git commit 
 %luego presionar i para insertar text 
-%y finalizas con :qw para finalizar el write
+%escape y finalizas con :wq para finalizar el write
 
 git log %exploras el historial del repositorio
 %Author: LALO <pozofarfanluis20@gmail.com>
@@ -31,4 +31,6 @@ git log %exploras el historial del repositorio
 git checkout -- <file> %borra cambios hechos por casualidad
 git diff <diff> %miras las diferencias antes de git add
 
+%Para ignorar una carpeta
+%creas una file ".gitignore" y ahi listas todas las carpetas o files a ignorar
 
