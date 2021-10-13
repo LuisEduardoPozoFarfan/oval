@@ -40,3 +40,5 @@ git diff <diff> %miras las diferencias antes de git add
 git branch       %master
 git branch x     %crea un branch llamado x
 git checkout x   %me voy al "x"
+
+git commit --amend %para corregir un mensaje de commit
