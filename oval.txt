@@ -1,2 +1,8 @@
 Pertenezco al branch de Oval
-hahahha
+
+#Trabajo remoto
+
+git remote add origin <git clone>
+git push origin master
+
+git tag 
