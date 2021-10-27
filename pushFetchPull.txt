@@ -1,0 +1,7 @@
+push: sube los cambios
+fetch: actualiza pero no cambia
+pull: hace el cambio
+
+git push origin master <envia de mi local al remoto>
+git fetch <actualiza con respecto a remoto>
+git pull origin master<sube los cambios al origin desde master>
