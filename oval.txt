@@ -3,7 +3,7 @@ Pertenezco al branch de Master
 #Trabajo remoto
 
 git remote add origin <git clone>
-git push origin master
+git push origin master <local remoto>
 
 git tag %rellenar despues 
 git 
